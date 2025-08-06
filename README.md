@@ -22,7 +22,7 @@ Add this to your `pubspec.yaml`:
 
 ```yaml
 dependencies:
-  smart_isolate_manager: ^0.0.1  # use the latest version
+  smart_isolate_manager: ^0.0.2  # use the latest version
 ```
 
 Then run:

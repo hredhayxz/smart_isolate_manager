@@ -2,7 +2,7 @@
 
 All notable changes to the `smart_isolate_manager` package will be documented in this file.
 
-## [0.0.1] - 2025-08-06
+## [0.0.2] - 2025-08-06
 
 ### Added
 - Initial release of `smart_isolate_manager` 🎉
