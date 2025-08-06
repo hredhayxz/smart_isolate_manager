@@ -2,6 +2,7 @@ name: smart_isolate_manager
 description: "Smart and customizable isolate task manager for heavy Dart/Flutter tasks with full error handling."
 version: 0.0.1
 homepage: https://github.com/hredhayxz/smart_isolate_manager
+repository: https://github.com/hredhayxz/smart_isolate_manager
 
 environment:
   sdk: ^3.8.1
