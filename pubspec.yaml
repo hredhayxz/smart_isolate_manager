@@ -1,0 +1,25 @@
+name: smart_isolate_manager
+description: "Smart and customizable isolate task manager for heavy Dart/Flutter tasks with full error handling."
+version: 0.0.1
+homepage: https://github.com/hredhayxz/smart_isolate_manager
+
+environment:
+  sdk: ^3.8.1
+  flutter: ">=1.17.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  test: ^1.25.15
+  flutter_lints: ^5.0.0
+
+topics:
+  - isolate
+  - concurrency
+  - performance
+  - flutter
+
